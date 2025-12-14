@@ -1,0 +1,6 @@
+numpy==1.24.4
+tensorflow==2.11.0
+mtcnn==0.1.1
+deepface==0.0.83
+opencv-python
+pandas
