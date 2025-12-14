@@ -18,8 +18,8 @@ EMBEDDINGS_FILE = "student_embeddings.pkl"
 MODEL_NAME = "ArcFace"
 INTERVAL_BETWEEN_CYCLES = 600   # seconds
 FRAMES_PER_CYCLE = 4            # capture 4 frames before pause
-
-CAMERA_URL = "http://192.168.31.219:8080/video"  # your phone camera stream URL
+# If you want to use laptop camera or inital camera connected to you system just set the CAMERA_URL = 0 (int form) remeber dont set it like CAMERA_URL = "0" (string form) 
+CAMERA_URL = "yourlink provided by IP web cam app/"  # your phone camera stream URL 
 
 # === CREATE REQUIRED FOLDERS ===
 os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -291,3 +291,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
