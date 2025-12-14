@@ -163,7 +163,7 @@ Want to try a different approach than tradition CNN and also, where a CNN requir
 - **Atharv Halwai**
   Contact any one of use for any problem
 ## 📌 Demo Video / Screenshots
-
+You can find Demo and Screenshots on my linkedin porject post.
 
 ## 📌 Achivements
 Got seed funded from Rajarambapu Institute of Technology, Islampur to implement this system in classrooms.
