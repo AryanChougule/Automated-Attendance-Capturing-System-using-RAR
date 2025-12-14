@@ -70,7 +70,7 @@ Follow these steps to set up and run the system for your own use case.
 ## 1️⃣ Download or Clone the Repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/AryanChougule/Automated-Attendance-Capturing-System-using-RAR
 cd <your-project-folder>
 ```
 
